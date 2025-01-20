@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Docker, Kubernetes, Spring, DevOps, React, React Native, Node.
 - 🌱 I’m currently learning **full stack devlopment**
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [LinkedIn](#) (https://www.linkedin.com/in/lucas-herom)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/lucas-herom) (https://www.linkedin.com/in/lucas-herom)
 
 <!---
 # Hi there, I'm heroumcaslu! 👋
