@@ -18,8 +18,8 @@ Sou um desenvolvedor apaixonado por criar soluções escaláveis e eficientes us
 
 ### 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heroumcaslu&layout=compact&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heroumcaslu&show_icons=true&theme=github_dark)
 
 ---
 
